@@ -1,1 +1,17 @@
-hello
+{
+  "patient": {
+    "name": "Bilbo Baggins",
+    "dob": "2890-09-22",
+    "mrn": "123456"
+  },
+  "allergies": "None",
+  "medications": "Herbal tea as needed for relaxation",
+  "reason_for_visit": "Routine check-up before next adventure",
+  "vitals": {
+    "blood_pressure": "118/76",
+    "heart_rate": "68 bpm",
+    "temperature": "98.4 F"
+  },
+  "assessment": "Excellent health for a hobbit of his age.",
+  "plan": "Maintain balanced diet, regular walks, and minimal dragon exposure."
+}
